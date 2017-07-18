@@ -1,1 +1,1 @@
-WELCOME
+Welcome to GitHubTraining
